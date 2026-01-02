@@ -1,4 +1,1 @@
-x = 10
-y = 10
-x = x+1
-print(x)
+print("Hello, World!")
