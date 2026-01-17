@@ -7,25 +7,25 @@
 
 - Importance of indentation
 
-🔤 2. Variables
+🔤 Variables
 
 
-🔢 3. Data Types
+🔢 Data Types
 
 
-➕ 4. Operators
+➕ Operators
 
 
-🧵 5. Strings
+🧵 Strings
 
 
-🔀 6. Conditionals
+🔀 Conditionals
 
 
-🔁 7. Loops
+🔁 Loops
 
 
-🧩 8. Functions
+🧩 Functions
 - Defining functions
 
 - Calling functions
