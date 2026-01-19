@@ -1,3 +1,3 @@
-# Big-Tech-Interview-Prep
+# Coding and Behavioral Interview Preparation
 
 
