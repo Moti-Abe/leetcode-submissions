@@ -1,0 +1,47 @@
+🐍 1. Python Basics
+- What Python is (high‑level, interpreted, readable)
+
+- Why Python is used (simplicity, readability, community support)
+
+- syntax differences vs. Java
+
+- Importance of indentation
+
+🔤 Variables
+
+
+🔢 Data Types
+
+
+➕ Operators
+
+
+🧵 Strings
+
+
+🔀 Conditionals
+
+
+🔁 Loops
+
+
+🧩 Functions
+- Defining functions
+
+- Calling functions
+
+- Arguments
+
+- Mutability effects (passing lists)
+
+- Return values
+
+- Lambda 
+
+📌 Lists
+
+📌 Tuples
+
+📌 Sets
+
+📌 Dictionaries
