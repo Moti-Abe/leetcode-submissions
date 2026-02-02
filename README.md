@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -28,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
