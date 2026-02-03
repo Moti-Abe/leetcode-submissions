@@ -1,37 +1,24 @@
 class Solution:
     def findWinners(self, matches: List[List[int]]) -> List[List[int]]:
-        answer0 = set()
-        answer1 = set()
-        mp = {}
-        for i in range(len(matches)):
-            answer0.add(matches[i][0])
-            answer1.add(matches[i][1])
+        loses = {}
+        players = set()
 
-        answer_0 = set()
-        answer_1 = set()
-        for num in answer0:
-            if num not in answer1:
-                answer_0.add(num)
+        for winner, loser in matches:
+            players.add(winner)
+            players.add(loser)
+            loses[loser] = loses.get(loser, 0) + 1
 
-        for i in range(len(matches)):
-            mp[matches[i][1]] = mp.get(matches[i][1], 0) + 1
+        zero_loses = []
+        one_loses = []
+        for p in players:
+            if p not in loses:
+                zero_loses.append(p)
+            else:
+                if loses[p] == 1:
+                    one_loses.append(p)
         
-        for key,value in mp.items():
-            if value == 1:
-                answer_1.add(key)
+        zero_loses.sort()
+        one_loses.sort()
         
-        answer_0 = list(answer_0)
-        answer_1 = list(answer_1)
-        answer_1.sort()
-        answer_0.sort()
+        return [zero_loses, one_loses]
 
-        return [answer_0,answer_1]
-
-
-
-
-
-
-
-
-        
