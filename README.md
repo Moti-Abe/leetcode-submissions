@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
@@ -55,6 +56,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Prefix Sum
 |  |
