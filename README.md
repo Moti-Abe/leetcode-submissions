@@ -16,6 +16,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
@@ -51,12 +52,14 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
