@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
