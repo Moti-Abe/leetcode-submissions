@@ -69,6 +69,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
