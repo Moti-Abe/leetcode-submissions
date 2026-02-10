@@ -2,7 +2,7 @@ class Solution:
     def commonChars(self, words: List[str]) -> List[str]:
         output = []
 
-        #iterate over character of the first word
+        # iterate over character of the first word
         for c in words[0]:
             ok = True
             
