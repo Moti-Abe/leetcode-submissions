@@ -1,13 +1,8 @@
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
-        mp = {}
-        res = []
+        res = [""]*len(s)
         for i in range (len(s)):
-            mp[indices[i]] = s[i]
-        sorted_mp = dict(sorted(mp.items()))
-
-        for value in sorted_mp.values():
-            res.append(value)
+            res[indices[i]] = s[i]
         
         return "".join(res)
 
