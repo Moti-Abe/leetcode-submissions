@@ -3,7 +3,7 @@ class Solution:
         arr = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
 
         mp = {}
-        mp_count = {}
+        st = set()
         for i in range (len(arr)):
             char = chr(97+i)
             mp[char] = arr[i]
@@ -18,12 +18,7 @@ class Solution:
             words[i] = result_string
         
         for word in words:
-            mp_count[word] = mp_count.get(word, 0) + 1
+            st.add(word)
         
-        return len(mp_count)
-        
-
-        
-                 
-        
+        return len(st)
         
