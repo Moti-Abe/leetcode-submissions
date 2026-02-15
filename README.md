@@ -18,6 +18,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
+| [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0867-transpose-matrix) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,6 +42,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -86,6 +88,7 @@
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
