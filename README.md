@@ -30,6 +30,7 @@
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Simulation
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Recursion
 |  |
 | ------- |
@@ -148,4 +151,8 @@
 | ------- |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
