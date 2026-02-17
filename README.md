@@ -34,6 +34,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
