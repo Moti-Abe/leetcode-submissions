@@ -1,4 +1,4 @@
-# Coding and Behavioral Interview Preparation
+# Coding Interview Preparation
 
 
 
