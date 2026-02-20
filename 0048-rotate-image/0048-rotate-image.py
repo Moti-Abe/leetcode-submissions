@@ -5,16 +5,10 @@ class Solution:
         """
 
         n = len(matrix)
-        res = [[0]*n for _ in range(n)]
 
         for i in range (n):
-            for j in range (n):
-                res[i][j] = matrix[j][i]
-
+            for j in range (i+1,n):
+                matrix[i][j],matrix[j][i] = matrix[j][i],matrix[i][j]
+        
         for i in range (n):
-            for j in range(n//2):
-                res[i][j],res[i][n-j-1] = res[i][n-j-1],res[i][j]
-
-        for i in range (n):
-            for j in range (n):
-                matrix[i][j] = res[i][j]
+            matrix[i].reverse()
