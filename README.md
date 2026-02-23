@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
