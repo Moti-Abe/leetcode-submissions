@@ -89,6 +89,7 @@
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1925-count-square-sum-triples](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1925-count-square-sum-triples) |
 | [2413-smallest-even-multiple](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2469-convert-the-temperature) |
 ## Sorting
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
