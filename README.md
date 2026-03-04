@@ -31,6 +31,7 @@
 | [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0867-transpose-matrix) |
+| [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
+| [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -204,6 +206,7 @@
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
+| [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
 ## Matrix
 |  |
@@ -219,6 +222,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
+| [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
