@@ -4,7 +4,6 @@ class Solution:
         fixed_value_index = len(arr)
 
         output = []
-        count = 0
         while fixed_value_index > 1:
             max_value = max(arr[:fixed_value_index])
             max_value_index = arr.index(max_value)
@@ -14,7 +13,6 @@ class Solution:
             output.append(fixed_value_index)
             arr[:fixed_value_index] = arr[:fixed_value_index][::-1]
             fixed_value_index -= 1
-            count += 2
         
         return output
 
