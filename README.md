@@ -20,6 +20,7 @@
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
@@ -110,6 +111,7 @@
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
