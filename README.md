@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
@@ -220,6 +221,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
@@ -240,6 +242,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
