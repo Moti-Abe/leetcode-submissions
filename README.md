@@ -58,6 +58,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
@@ -134,6 +135,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
@@ -232,6 +234,7 @@
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Matrix
 |  |
@@ -251,6 +254,7 @@
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |
