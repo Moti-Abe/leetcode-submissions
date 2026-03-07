@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
@@ -231,6 +233,7 @@
 | [0011-container-with-most-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
