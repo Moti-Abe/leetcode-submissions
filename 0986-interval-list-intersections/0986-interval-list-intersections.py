@@ -3,46 +3,17 @@ class Solution:
         l, r = 0, 0
         output = []
 
-        while l < len(firstList)-1 and r < len(secondList)-1:
-            if firstList[l][0] <= secondList[r][0] <= firstList[l][1]:
-                interval = [secondList[r][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
-            elif firstList[l][0] >= secondList[r][0] and firstList[l][0] <= secondList[r][1]:
-                interval = [firstList[l][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
+        while l < len(firstList) and r < len(secondList):
+            start = max(firstList[l][0], secondList[r][0])
+            end = min(firstList[l][1], secondList[r][1])
+
+            if start <= end:
+                output.append([start, end])
             
-            if secondList[r+1][0] > firstList[l+1][0]:
+            if firstList[l][1] < secondList[r][1]:
                 l += 1
             else:
                 r += 1
         
-        while l == len(firstList)-1 and r < len(secondList)-1:
-            if firstList[l][0] <= secondList[r][0] <= firstList[l][1]:
-                interval = [secondList[r][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
-            elif firstList[l][0] >= secondList[r][0] and firstList[l][0] <= secondList[r][1]:
-                interval = [firstList[l][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
-            
-            r += 1
-        
-        while l < len(firstList)-1 and r == len(secondList)-1:
-            if firstList[l][0] <= secondList[r][0] <= firstList[l][1]:
-                interval = [secondList[r][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
-            elif firstList[l][0] >= secondList[r][0] and firstList[l][0] <= secondList[r][1]:
-                interval = [firstList[l][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
-            
-            l += 1
-            
-        if l < len(firstList) and r < len(secondList):
-            if firstList[l][0] <= secondList[r][0] <= firstList[l][1]:
-                interval = [secondList[r][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)
-            elif firstList[l][0] >= secondList[r][0] and firstList[l][0] <= secondList[r][1]:
-                interval = [firstList[l][0], min(secondList[r][1], firstList[l][1])]
-                output.append(interval)   
-
         return output
         
