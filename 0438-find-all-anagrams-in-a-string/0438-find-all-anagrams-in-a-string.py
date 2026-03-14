@@ -12,7 +12,7 @@ class Solution:
             sdict[s[right]] = sdict.get(s[right], 0) + 1
             right += 1
 
-        for right in range(len(p), len(s)):
+        while right < len(s):
             if pdict == sdict:
                 output.append(left)
 
