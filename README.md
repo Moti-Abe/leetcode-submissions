@@ -101,6 +101,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1995-count-special-quadruplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1995-count-special-quadruplets) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
@@ -197,6 +198,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
