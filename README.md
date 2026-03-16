@@ -201,6 +201,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
@@ -339,4 +340,5 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
