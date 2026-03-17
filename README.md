@@ -48,6 +48,7 @@
 | [1089-duplicate-zeros](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Divide and Conquer
 |  |
