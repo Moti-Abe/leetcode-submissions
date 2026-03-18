@@ -72,6 +72,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
@@ -113,6 +114,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -355,4 +357,5 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
