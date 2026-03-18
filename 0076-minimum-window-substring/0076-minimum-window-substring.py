@@ -11,15 +11,15 @@ class Solution:
         for i in range (len(t)):
             tmp[t[i]] = tmp.get(t[i], 0) + 1
         
-        
-
-        while right < n:
-            smp[s[right]] = smp.get(s[right], 0) + 1
-            def isvalid():
+        def isvalid():
                 for c in tmp:
                     if tmp[c] > smp.get(c, 0):
                         return False
                 return True
+
+        while right < n:
+            smp[s[right]] = smp.get(s[right], 0) + 1
+            
             while isvalid():
                 if (right - left + 1) <= min_len:
                     ind = left
