@@ -84,6 +84,7 @@
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
