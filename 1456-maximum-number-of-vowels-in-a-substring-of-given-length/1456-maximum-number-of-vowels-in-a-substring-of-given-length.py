@@ -7,6 +7,8 @@ class Solution:
             if s[right] in vowels:
                 count += 1
             max_vowels = max(max_vowels, count)
+            if max_vowels == k:
+                break
             if (right - left + 1) == k:
                 if s[left] in vowels:
                     count -= 1
