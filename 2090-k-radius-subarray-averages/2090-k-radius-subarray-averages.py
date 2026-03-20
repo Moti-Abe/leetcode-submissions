@@ -3,6 +3,7 @@ class Solution:
         total = 0
         n = len(nums)
         output = [-1] * n
+        
         if n%2 == 1 and k > (n//2):
             return output
         if n%2 == 0 and k > ((n//2) - 1):
