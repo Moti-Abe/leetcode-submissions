@@ -70,6 +70,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2090-k-radius-subarray-averages) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
@@ -371,6 +372,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
