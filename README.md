@@ -79,6 +79,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -124,6 +125,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -375,6 +377,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
