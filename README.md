@@ -138,6 +138,7 @@
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -300,6 +302,7 @@
 | [0443-string-compression](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0986-interval-list-intersections) |
