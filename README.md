@@ -220,6 +220,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -378,6 +379,7 @@
 | [0904-fruit-into-baskets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0978-longest-turbulent-subarray) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
