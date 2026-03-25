@@ -25,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0414-third-maximum-number) |
@@ -266,6 +267,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
