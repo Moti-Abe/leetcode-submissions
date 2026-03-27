@@ -237,6 +237,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Trie
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
