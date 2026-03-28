@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1109-corporate-flight-bookings) |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0978-longest-turbulent-subarray](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0978-longest-turbulent-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
