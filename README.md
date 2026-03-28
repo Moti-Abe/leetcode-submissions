@@ -45,6 +45,7 @@
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
+| [0848-shifting-letters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0904-fruit-into-baskets) |
@@ -227,6 +228,7 @@
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
+| [0848-shifting-letters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0848-shifting-letters) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -275,6 +277,7 @@
 | [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
