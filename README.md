@@ -416,4 +416,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
