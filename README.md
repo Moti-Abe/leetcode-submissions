@@ -141,6 +141,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
@@ -301,6 +302,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0002-add-two-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -426,6 +428,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0002-add-two-numbers) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
