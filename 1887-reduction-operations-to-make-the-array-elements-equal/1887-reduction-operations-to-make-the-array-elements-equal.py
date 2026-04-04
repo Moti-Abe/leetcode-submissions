@@ -13,9 +13,6 @@ class Solution:
         
         return sum(output)
             
-
-
-        
         return output
             
 
