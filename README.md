@@ -313,6 +313,7 @@
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -432,6 +433,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -443,4 +445,8 @@
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
