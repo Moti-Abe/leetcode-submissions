@@ -213,6 +213,7 @@
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -247,6 +248,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2730-find-the-longest-semi-repetitive-substring) |
@@ -449,6 +451,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
 |  |
 | ------- |
