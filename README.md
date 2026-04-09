@@ -35,6 +35,7 @@
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
@@ -115,6 +116,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -450,10 +452,15 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
