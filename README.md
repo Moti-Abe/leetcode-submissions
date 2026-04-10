@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
@@ -457,6 +458,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
@@ -468,4 +470,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
