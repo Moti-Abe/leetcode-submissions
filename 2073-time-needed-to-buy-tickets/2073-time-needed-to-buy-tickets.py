@@ -2,20 +2,14 @@ from collections import deque
 
 class Solution:
     def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
-        q = deque()
-
+        sum = 0
         for i in range(len(tickets)):
-            q.append((i,tickets[i]))
+            if tickets[i] >= tickets[k]:
+                if i <= k:
+                    sum += tickets[k]
+                else:
+                    sum += tickets[k] - 1
+            else:
+                sum += tickets[i]
         
-        time = 0
-        while True:
-            i, t = q.popleft()
-            t -= 1
-            
-            time += 1
-
-            if i == k and t == 0:
-                return time
-            
-            if t > 0:
-                q.append((i,t))
+        return sum
