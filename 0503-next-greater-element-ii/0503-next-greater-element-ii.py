@@ -1,16 +1,17 @@
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         stack = deque()
-        nums.extend(nums)
         n = len(nums)
         nge = [-1]*n
 
-        for i in range (n-1,-1,-1):
-            while stack and stack[-1] <= nums[i]:
+        for i in range (2*n-1,-1,-1):
+            ind = i%n
+            while stack and stack[-1] <= nums[ind]:
                 stack.pop()
-            if stack:
-                nge[i] = stack[-1]
+            if i < n:
+                if stack:
+                    nge[i] = stack[-1]
         
-            stack.append(nums[i])
+            stack.append(nums[ind])
            
-        return nge[:n//2]
+        return nge
