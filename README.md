@@ -64,6 +64,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1534-count-good-triplets) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -391,6 +393,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 ## Game Theory
 |  |
@@ -431,6 +434,7 @@
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2090-k-radius-subarray-averages) |
@@ -477,4 +481,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
