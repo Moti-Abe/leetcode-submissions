@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
@@ -472,6 +473,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
@@ -484,6 +486,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
