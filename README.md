@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -475,6 +476,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
@@ -489,6 +491,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
