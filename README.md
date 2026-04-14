@@ -78,6 +78,7 @@
 | [1695-maximum-erasure-value](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1695-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1913-maximum-product-difference-between-two-pairs) |
