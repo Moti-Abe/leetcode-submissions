@@ -14,6 +14,7 @@
 | [0016-3sum-closest](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
@@ -348,6 +349,7 @@
 | [0016-3sum-closest](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0125-valid-palindrome) |
@@ -454,6 +456,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0978-longest-turbulent-subarray](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0978-longest-turbulent-subarray) |
 ## Design
 |  |
@@ -477,6 +480,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
@@ -493,6 +497,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
