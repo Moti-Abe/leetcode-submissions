@@ -123,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -195,6 +196,7 @@
 | [0229-majority-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
@@ -255,6 +257,7 @@
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -299,6 +302,7 @@
 | [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
