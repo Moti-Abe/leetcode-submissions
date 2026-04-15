@@ -115,6 +115,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0217-contains-duplicate) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0058-length-of-last-word) |
