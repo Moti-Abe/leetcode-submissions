@@ -163,6 +163,7 @@
 | [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
@@ -285,6 +286,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
