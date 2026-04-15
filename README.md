@@ -162,6 +162,7 @@
 | [0009-palindrome-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
@@ -245,6 +247,7 @@
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
@@ -290,6 +293,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
