@@ -46,6 +46,7 @@
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0724-find-pivot-index) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -473,6 +475,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -484,6 +487,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
+| [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
