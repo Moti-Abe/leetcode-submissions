@@ -171,6 +171,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
@@ -355,6 +356,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
