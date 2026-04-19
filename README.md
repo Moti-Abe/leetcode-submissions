@@ -266,6 +266,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -362,6 +363,7 @@
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -534,6 +536,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
