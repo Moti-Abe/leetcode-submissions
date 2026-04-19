@@ -361,6 +361,7 @@
 | [0050-powx-n](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
@@ -396,6 +397,7 @@
 | [0141-linked-list-cycle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
@@ -529,6 +531,7 @@
 | [0141-linked-list-cycle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
@@ -540,6 +543,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
