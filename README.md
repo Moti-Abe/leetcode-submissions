@@ -389,6 +389,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0141-linked-list-cycle) |
@@ -521,6 +522,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
