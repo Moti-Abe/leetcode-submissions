@@ -413,6 +413,7 @@
 | [0986-interval-list-intersections](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -535,6 +536,7 @@
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -551,6 +553,7 @@
 | [0853-car-fleet](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0901-online-stock-span) |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
 |  |
