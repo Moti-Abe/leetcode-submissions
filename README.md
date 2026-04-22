@@ -69,6 +69,7 @@
 | [0986-interval-list-intersections](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1002-find-common-characters) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1122-relative-sort-array) |
@@ -311,6 +312,7 @@
 | [0278-first-bad-version](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
