@@ -306,6 +306,7 @@
 | [0069-sqrtx](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -608,4 +609,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0146-lru-cache) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
