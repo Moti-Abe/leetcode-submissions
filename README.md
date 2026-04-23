@@ -551,6 +551,7 @@
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
