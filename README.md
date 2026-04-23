@@ -549,6 +549,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0725-split-linked-list-in-parts) |
@@ -614,8 +615,13 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0278-first-bad-version) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
