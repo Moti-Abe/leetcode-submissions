@@ -95,6 +95,7 @@
 | [1920-build-array-from-permutation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1995-count-special-quadruplets) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2073-time-needed-to-buy-tickets) |
@@ -155,6 +156,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1995-count-special-quadruplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1995-count-special-quadruplets) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2367-number-of-arithmetic-triplets) |
@@ -313,6 +315,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -507,6 +510,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1695-maximum-erasure-value) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
