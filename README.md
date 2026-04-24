@@ -47,6 +47,7 @@
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
@@ -141,6 +142,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0804-unique-morse-code-words) |
@@ -186,6 +188,7 @@
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
@@ -346,6 +349,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
