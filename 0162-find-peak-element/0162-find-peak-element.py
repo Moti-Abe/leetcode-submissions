@@ -7,10 +7,19 @@ class Solution:
             return 0
         if nums[n-1] > nums[n-2]:
             return n-1 
-
+                      
         ind = -1
-        for i in range (1,n-1):
-            if nums[i] > nums[i-1] and nums[i] > nums[i+1]:
-                ind = i
-        return ind
+        low, high = 1, n-2
+        while low <= high:
+            mid = (low+high)//2
+            if nums[mid-1] < nums[mid] > nums[mid+1]:
+                return mid
+            elif nums[mid] < nums[mid-1]:
+                high = mid - 1
+            else:
+                low = mid+1
+        
+        return -1
+        
+
                 
