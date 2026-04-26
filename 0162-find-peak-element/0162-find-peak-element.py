@@ -8,13 +8,9 @@ class Solution:
         if nums[n-1] > nums[n-2]:
             return n-1 
 
-        peak = -1* pow(2,31)
         ind = -1
-        
         for i in range (1,n-1):
             if nums[i] > nums[i-1] and nums[i] > nums[i+1]:
-                if nums[i] > peak:
-                    peak = nums[i]
-                    ind = i
+                ind = i
         return ind
                 
