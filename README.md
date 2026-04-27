@@ -43,6 +43,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
@@ -223,6 +224,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0853-car-fleet) |
@@ -322,6 +324,7 @@
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0374-guess-number-higher-or-lower) |
+| [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -430,6 +433,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0680-valid-palindrome-ii) |
