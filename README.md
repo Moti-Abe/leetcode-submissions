@@ -600,6 +600,7 @@
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
@@ -664,9 +665,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0729-my-calendar-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
