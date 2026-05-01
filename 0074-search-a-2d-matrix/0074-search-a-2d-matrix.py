@@ -1,22 +1,16 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        if not matrix or not matrix[0]:
-            return False
+        flat_list = [item for sublist in matrix for item in sublist]
+        low, high = 0, len(flat_list) - 1
         
-        rows, cols = len(matrix), len(matrix[0])
-        
-        left, right = 0, rows * cols - 1
-        
-        while left <= right:
-            mid = (left + right) // 2
-            
-            value = matrix[mid // cols][mid % cols]
-            
-            if value == target:
-                return True
-            elif value < target:
-                left = mid + 1
+        while low <= high:
+            mid = (low+high)//2
+            if flat_list[mid] < target:
+                low = mid+1
+            elif flat_list[mid] > target:
+                high = mid - 1
             else:
-                right = mid - 1
+                return True
         
         return False
+
