@@ -57,6 +57,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0713-subarray-product-less-than-k) |
@@ -235,6 +236,7 @@
 | [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
@@ -338,6 +340,7 @@
 | [0441-arranging-coins](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0729-my-calendar-i) |
@@ -453,6 +456,7 @@
 | [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
@@ -500,6 +504,7 @@
 | [0239-sliding-window-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 ## Game Theory
@@ -535,6 +540,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
