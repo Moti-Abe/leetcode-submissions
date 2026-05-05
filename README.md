@@ -194,6 +194,7 @@
 | [0070-climbing-stairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
@@ -411,6 +413,7 @@
 | [0050-powx-n](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
