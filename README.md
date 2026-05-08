@@ -112,6 +112,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2090-k-radius-subarray-averages) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -500,6 +501,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
