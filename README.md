@@ -210,6 +210,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1925-count-square-sum-triples) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2396-strictly-palindromic-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2396-strictly-palindromic-number) |
@@ -423,6 +424,7 @@
 | [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1922-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
