@@ -206,6 +206,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0779-k-th-symbol-in-grammar) |
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -364,6 +365,7 @@
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
@@ -423,6 +425,7 @@
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1922-count-good-numbers) |
 ## Queue
