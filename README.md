@@ -217,6 +217,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2469-convert-the-temperature) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
 | ------- |
