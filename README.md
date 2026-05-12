@@ -47,6 +47,7 @@
 | [0455-assign-cookies](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0500-keyboard-row) |
@@ -202,6 +203,7 @@
 | [0412-fizz-buzz](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0441-arranging-coins) |
 | [0447-number-of-boomerangs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0628-maximum-product-of-three-numbers) |
@@ -426,6 +428,7 @@
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -524,6 +527,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Enumeration
@@ -580,6 +584,7 @@
 | [0070-climbing-stairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0978-longest-turbulent-subarray) |
 ## Design
