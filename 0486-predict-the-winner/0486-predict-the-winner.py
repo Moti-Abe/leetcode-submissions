@@ -1,7 +1,5 @@
 class Solution:
     def predictTheWinner(self, nums: List[int]) -> bool:
-        
-        from functools import cache
 
         @cache
         def dp(l, r):
