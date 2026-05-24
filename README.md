@@ -79,6 +79,7 @@
 | [0881-boats-to-save-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0930-binary-subarrays-with-sum) |
+| [0962-maximum-width-ramp](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [0978-longest-turbulent-subarray](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0986-interval-list-intersections) |
@@ -492,6 +493,7 @@
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1089-duplicate-zeros) |
@@ -656,6 +658,7 @@
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0962-maximum-width-ramp) |
 | [1598-crawler-log-folder](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
@@ -676,6 +679,7 @@
 | [0739-daily-temperatures](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0962-maximum-width-ramp) |
 ## Ordered Set
 |  |
 | ------- |
