@@ -1,7 +1,7 @@
 class Solution:
     def predictTheWinner(self, nums: List[int]) -> bool:
 
-        @cache
+       
         def dp(l, r):
 
             if l == r:
