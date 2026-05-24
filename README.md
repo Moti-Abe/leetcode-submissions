@@ -200,6 +200,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
@@ -303,6 +304,7 @@
 | [0071-simplify-path](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
@@ -434,6 +436,7 @@
 | [0206-reverse-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0394-decode-string) |
@@ -593,6 +596,7 @@
 | [0070-climbing-stairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0119-pascals-triangle-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0978-longest-turbulent-subarray) |
@@ -683,6 +687,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
