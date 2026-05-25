@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -407,6 +408,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0724-find-pivot-index) |
@@ -513,6 +515,7 @@
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
@@ -614,6 +617,7 @@
 | [0146-lru-cache](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0729-my-calendar-i) |
