@@ -1,17 +1,15 @@
-from typing import List
-
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        n = len(nums)
-        nums = sorted(set(nums))  # remove duplicates
+        length = len(nums)
+        nums = sorted(set(nums))
+
+        res = length
+        r = 0
+        for l in range(len(nums)):
+
+            while r < len(nums) and nums[r] < nums[l] + length:
+                r += 1
+            window = r-l
+            res = min(res, length-window)
+        return res
         
-        max_window = 0
-        j = 0
-        
-        for i in range(len(nums)):
-            while j < len(nums) and nums[j] < nums[i] + n:
-                j += 1
-            
-            max_window = max(max_window, j - i)
-        
-        return n - max_window
