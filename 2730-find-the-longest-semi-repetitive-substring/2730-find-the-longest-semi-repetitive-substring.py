@@ -11,7 +11,7 @@ class Solution:
                 if count == 2:
                     max_len = max(max_len, j-i)
                     break
-                if count < 2:
-                    max_len = max(max_len, j-i+1)
+                
+                max_len = max(max_len, j-i+1)
 
         return max_len
