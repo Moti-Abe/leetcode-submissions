@@ -1,19 +1,17 @@
 class Solution:
     def longestSemiRepetitiveSubstring(self, s: str) -> int:
-        max_len = 1
-        n = len(s)
-        l = 0
-        pairs = 0
-        for r in range(1,n):
-            if s[r] == s[r-1]:
-                pairs += 1
-            
-            while pairs > 1:
-                if s[l] == s[l+1]:
-                    pairs -= 1
-                l += 1 
-            
-            max_len = max(max_len, r-l+1)
-            
-            
+        max_len = 0
+        if len(s) <3:
+            return len(s)
+        for i in range(len(s)):
+            count = 0
+            for j in range(i+1,len(s)):
+                if s[j] == s[j-1]:
+                    count += 1
+                if count == 2:
+                    max_len = max(max_len, j-i)
+                    break
+                if count < 2:
+                    max_len = max(max_len, j-i+1)
+
         return max_len
