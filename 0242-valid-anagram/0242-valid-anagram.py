@@ -3,13 +3,12 @@ class Solution:
         if len(s) != len(t):
             return False
         smap, tmap = {}, {}
-        for c in s:
-            smap[c] = s.count(c)
-        for c in t:
-            tmap[c] = t.count(c)
+        for i in range(len(s)):
+            smap[s[i]] = smap.get(s[i], 0) + 1
+            tmap[t[i]] = tmap.get(t[i], 0) + 1
         
-        for key,value in smap.items():
-            if key not in tmap or tmap[key] != value:
+        for c in s:
+            if smap[c] != tmap.get(c,0):
                 return False
         return True
 
