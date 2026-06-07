@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0074-search-a-2d-matrix) |
@@ -145,6 +146,7 @@
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0141-linked-list-cycle) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
@@ -305,6 +308,7 @@
 | [0014-longest-common-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0071-simplify-path) |
