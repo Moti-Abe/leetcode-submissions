@@ -1,18 +1,20 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        mp = {}
+        mp, freq = {}, [[] for i in range(len(nums)+1)]
         for num in nums:
             mp[num] = mp.get(num, 0) + 1
 
-        sorted_dict = dict(sorted(mp.items(), key=lambda item: item[1], reverse=True))
-
         output = []
-        for key, value in sorted_dict.items():
-            output.append(key)
-            if len(output) == k:
-                break
+        for key, value in mp.items():
+            freq[value].append(key)
         
-        return output
+        output = []
+        for i in range(len(freq)-1, 0, -1):
+            for n in freq[i]:
+                output.append(n)
+                if len(output) == k:
+                    return output
+
 
 
 # Synced seamlessly with LeetHub Pro
