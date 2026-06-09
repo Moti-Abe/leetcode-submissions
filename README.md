@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -149,6 +150,7 @@
 | [0013-roman-to-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0146-lru-cache) |
@@ -753,4 +755,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
