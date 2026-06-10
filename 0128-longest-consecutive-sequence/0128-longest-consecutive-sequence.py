@@ -1,19 +1,17 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        if len(nums) < 2:
-            return len(nums)
-        unique_nums = list(set(nums))
-        unique_nums.sort()
-        max_len = 1
-        count = 1
-        for i in range(1,len(unique_nums)):
-            if unique_nums[i] - unique_nums[i-1] == 1:
-                count += 1
-                max_len = max(max_len, count)
-            else:
-                count = 1
-        return max_len
+        nums = set(nums)
+        longest = 0
+        for num in nums:
+            if num - 1 not in nums:
+                longer = 1
+
+                while num + longer in nums:
+                    longer += 1
+                longest = max(longest, longer) 
         
+        return longest
+
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
