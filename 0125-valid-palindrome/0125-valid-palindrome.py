@@ -1,19 +1,20 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        alnums = []
+        for ch in s:
+            if ch.isalnum():
+                alnums.append(ch.lower())
+        alnums = "".join(alnums)
 
-        s = list(s)
-        res = []
-        for i in range (len(s)):
-            s[i] = s[i].lower()
-            if (s[i].isalnum()):
-                res.append(s[i])
-        
-        res = "".join(res)
+        l, r  = 0, len(alnums)-1
+        while l < r:
+            if alnums[l] != alnums[r]:
+                return False
+            l += 1
+            r -= 1
+        return True
 
-        reversed_res = res[::-1]
 
-        if res == reversed_res:
-            return True
-        else:
-            return False
-        
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
