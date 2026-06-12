@@ -1,22 +1,27 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
+        res = []
         nums.sort()
-        output = []
-        for i in range (len(nums)):
-            left = i+1
-            right = len(nums)-1
-            while left < right:
-                total = nums[i] + nums[left] + nums[right]
-                if total < 0:
-                    left += 1
-                elif total > 0:
-                    right -= 1
+        for i in range (len(nums)-2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
+            l, r = i+1, len(nums)-1
+            while l < r:
+                if nums[i] + nums[l] + nums[r] > 0:
+                    r -= 1
+                elif nums[i] + nums[l] + nums[r] < 0:
+                    l += 1
                 else:
-                    output.append((nums[i], nums[left], nums[right]))
-                    left += 1
-                    right -= 1
-        output = list(set(output))
-        return output
+                    res.append([nums[i], nums[l], nums[r]])
+                    l += 1
+                    while l < len(nums) and nums[l] == nums[l-1]:
+                        l += 1
+        
+        return res
 
+        
 
-
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
