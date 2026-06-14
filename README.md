@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -624,6 +625,7 @@
 | [0070-climbing-stairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
