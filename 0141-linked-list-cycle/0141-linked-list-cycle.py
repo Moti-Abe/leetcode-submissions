@@ -6,11 +6,15 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        st = set()
-        while head:
-            if head in st:
-                return True 
-
-            st.add(head)     
-            head = head.next
+        curr = head 
+        count = 0
+        while curr:
+            curr = curr.next
+            count += 1
+            if count > 10000:
+                return True
         return False
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
