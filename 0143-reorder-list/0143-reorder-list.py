@@ -10,20 +10,19 @@ class Solution:
         while curr:
             arr.append(curr.val)
             curr = curr.next
-        reversed_arr = arr[::-1]
 
         curr = head
-        i = 0
-        while curr and i < len(arr)//2:
-            curr.val = arr[i]
+        l, r  = 0, len(arr)-1
+        while l < r:
+            curr.val = arr[l]
             curr = curr.next
-            curr.val = reversed_arr[i]
-            curr = curr.next  
-            i += 1
+            curr.val = arr[r]
+            curr = curr.next
+            l +=1 
+            r -=1
         if curr:
-            curr.val = arr[i]
-        print(arr)
-        print(reversed_arr)
+            curr.val = arr[l]
+        
         return head  
 
 # Synced seamlessly with LeetHub Pro
