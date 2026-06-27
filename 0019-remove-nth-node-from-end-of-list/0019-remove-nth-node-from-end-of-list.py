@@ -5,27 +5,18 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        arr = []
-        curr = head
-        while curr:
-            arr.append(curr.val)
-            curr = curr.next
-        del arr[len(arr) - n]
-
-        if(len(arr) == 0):
-            return None
+        dummy = ListNode()
+        dummy.next = head
+        slow = dummy
+        fast = head
+        for i in range(n):
+            fast = fast.next
+        while fast:
+            slow = slow.next
+            fast = fast.next
+        slow.next = slow.next.next
         
-        curr = head
-        for i in range(len(arr)):
-            curr.val = arr[i]
-            if i == len(arr)-1:
-                break
-            curr = curr.next
-        curr.next = None
-
-
-        return head
-
+        return dummy.next
 
 
 # Synced seamlessly with LeetHub Pro
