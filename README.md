@@ -437,6 +437,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
@@ -556,6 +557,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0347-top-k-frequent-elements) |
@@ -651,6 +653,7 @@
 | [0002-add-two-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -765,4 +768,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
