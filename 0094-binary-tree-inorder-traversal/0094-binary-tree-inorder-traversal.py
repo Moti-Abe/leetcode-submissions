@@ -6,15 +6,17 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        # Perform inorder traversal (left -> node -> right) using recursion.
         output = []
         def inorder(root):
-            if not root:
-                return output
+            if not root: return output  # Base case: reached a null node; recursion stops.
         
-            inorder(root.left)
-            output.append(root.val)
-            inorder(root.right)
+            inorder(root.left)  # Recurse on left subtree.
+            output.append(root.val)  # Visit current node.
+            inorder(root.right)  # Recurse on right subtree.
         inorder(root)
+        # Time Complexity: O(N) where N is the number of nodes.
+        # Space Complexity: O(N) for output list + O(H) recursion stack (H = tree height, worst-case O(N)).
         return output
 
 # Synced seamlessly with LeetHub Pro
