@@ -682,6 +682,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
@@ -753,6 +754,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Segment Tree
@@ -764,12 +766,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
