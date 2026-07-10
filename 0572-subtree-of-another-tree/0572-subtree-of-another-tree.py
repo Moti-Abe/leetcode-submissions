@@ -1,19 +1,20 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
+
         root_arr = []
         sub_arr = []
 
-        def serialize(node, arr):
+        def postorder(node, arr):
             if not node:
                 arr.append("#")
                 return
 
-            serialize(node.left, arr)
-            serialize(node.right, arr)
-            arr.append(str(node.val))
+            postorder(node.left, arr)
+            postorder(node.right, arr)
+            arr.append(node.val)
 
-        serialize(root, root_arr)
-        serialize(subRoot, sub_arr)
+        postorder(root, root_arr)
+        postorder(subRoot, sub_arr)
 
         m = len(sub_arr)
 
