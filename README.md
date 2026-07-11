@@ -140,6 +140,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -288,6 +289,7 @@
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -306,6 +308,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3174-clear-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -572,6 +575,7 @@
 | [0658-find-k-closest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0658-find-k-closest-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 ## Game Theory
 |  |
 | ------- |
