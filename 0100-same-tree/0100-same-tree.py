@@ -6,13 +6,40 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        if not p and not q:
-            return True
-        if not p or not q or p.val != q.val:
-            return False
+        p_arr = []
+        q_arr = []
+
+        def inorder_p(p):
+            if not p:
+                p_arr.append("None")
+                return 
+            p_arr.append(p.val)
+            inorder_p(p.left)
+            
+            inorder_p(p.right)
         
-        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right,q.right)
-    
+        def inorder_q(q):
+            if not q:
+                q_arr.append("None")
+                return
+            q_arr.append(q.val)
+            inorder_q(q.left)
+            
+            inorder_q(q.right)
+        
+        inorder_p(p)
+        inorder_q(q)
+        print(q_arr)
+        print(q_arr)
+        if len(p_arr) != len(q_arr):
+            return False
+        for i in range(len(p_arr)):
+            if p_arr[i] != q_arr[i]:
+                return False
+        return True
+        
+            
+
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
