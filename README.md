@@ -239,6 +239,7 @@
 | [2413-smallest-even-multiple](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2469-convert-the-temperature) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
