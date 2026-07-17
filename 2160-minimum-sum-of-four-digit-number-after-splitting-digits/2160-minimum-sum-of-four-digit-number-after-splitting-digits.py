@@ -6,13 +6,10 @@ class Solution:
             s[i] = int(s[i])
         s.sort()
         new1 = ""+str(s[0])+str(s[2])
-        
         new2 = ""+str(s[1])+str(s[3])
         
         return (int(new1)+int(new2))
         
-# ✅ Correct solution. Time complexity: O(1) (fixed 4 digits), Space: O(1)
-# Optimal approach achieved. The sorted digits are combined as [smallest + middle] and [middle + largest] to minimize sum.
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
