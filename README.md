@@ -770,6 +770,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Segment Tree
@@ -784,6 +785,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -793,6 +795,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Union-Find
 |  |
@@ -811,4 +814,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
