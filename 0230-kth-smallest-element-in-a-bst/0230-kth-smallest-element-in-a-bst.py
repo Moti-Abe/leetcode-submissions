@@ -12,10 +12,10 @@ class Solution:
             if not root or self.count == k:
                 return
             
+            
             inorder(root.left)
 
             self.count += 1
-
             if self.count == k:
                 self.answer = root.val
                 return
