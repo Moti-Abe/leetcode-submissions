@@ -13,6 +13,8 @@ class Solution:
             
             preorder(root.left)
             arr.append(root.val)
+            if len(arr) == k:
+                return
             preorder(root.right)
 
         preorder(root)
