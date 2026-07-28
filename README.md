@@ -332,6 +332,7 @@
 | [0125-valid-palindrome](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0387-first-unique-character-in-a-string) |
@@ -654,6 +655,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0641-design-circular-deque](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0641-design-circular-deque) |
@@ -776,6 +778,7 @@
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Segment Tree
@@ -795,6 +798,7 @@
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -809,6 +813,7 @@
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Union-Find
 |  |
@@ -824,6 +829,7 @@
 | [0100-same-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
