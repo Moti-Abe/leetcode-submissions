@@ -781,6 +781,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Segment Tree
 |  |
@@ -801,6 +802,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -817,6 +819,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Union-Find
 |  |
