@@ -783,6 +783,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -804,6 +805,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -821,6 +823,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -836,6 +839,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
