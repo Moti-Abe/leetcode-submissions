@@ -646,6 +646,7 @@
 | [0118-pascals-triangle](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0509-fibonacci-number) |
@@ -774,6 +775,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
@@ -797,6 +799,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
@@ -815,6 +818,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0226-invert-binary-tree) |
