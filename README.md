@@ -1,4 +1,4 @@
-# All of my LeetCode submissions 
+# All of my LeetCode submissions.
 
 
 
