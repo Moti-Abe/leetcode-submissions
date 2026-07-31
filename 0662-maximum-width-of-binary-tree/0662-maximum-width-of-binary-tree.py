@@ -16,9 +16,9 @@ class Solution:
             mmin = q[0][1]
             size = len(q)
             for i in range(size):
-                curr_index = q[0][1]-mmin
-                node = q[0][0]
-                q.popleft()
+                node, curr_index = q.popleft()
+                curr_index -= mmin
+                
                 if i == 0: first = curr_index
                 if i == size-1: last = curr_index
                 if node.left: 
