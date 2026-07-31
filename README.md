@@ -1,9 +1,9 @@
-# All of my LeetCode submissions.
+# All of my LeetCode submissions
 
 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics.
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
