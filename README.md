@@ -3,7 +3,7 @@
 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics.
 ## Array
 |  |
 | ------- |
