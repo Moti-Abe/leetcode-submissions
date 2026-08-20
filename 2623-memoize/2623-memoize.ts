@@ -2,20 +2,16 @@ type Fn = (...params: number[]) => number
 
 function memoize(fn: Fn): Fn {
    
-    const cache = new Map<string, number>();
-    
+    const arraySet = new Map<string, number>();
+
     return function(...args) {
         const key = JSON.stringify(args);
-
-        if (cache.has(key)) {
-            return cache.get(key)!;
+        if (!arraySet.has(key)){
+            const result = fn(...args);
+            arraySet.set(key, result);
+            return result
         }
-
-        const result = fn(...args);
-        cache.set(key, result)
-
-        return result
-        
+        return arraySet.get(key)!;
     }
 }
 
