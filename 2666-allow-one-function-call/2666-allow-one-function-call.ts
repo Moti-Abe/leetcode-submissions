@@ -1,15 +1,15 @@
 type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string]: JSONValue };
 type OnceFn = (...args: JSONValue[]) => JSONValue | undefined
 
-
 function once(fn: Function): OnceFn {
     let count = 0
     return function (...args) {
-        count += 1
-        if (count > 1){
+        if (count > 0){
             return undefined
         }
+        count += 1
         return fn(...args)
+        
     };
 }
 
