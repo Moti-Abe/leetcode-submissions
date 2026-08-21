@@ -3,14 +3,13 @@ type Fn = (...args: JSONValue[]) => void
 
 function cancellable(fn: Fn, args: JSONValue[], t: number): Function {
     fn(...args)
-    const mainInterval = setInterval(() => {
-        fn(...args)
-    }, t);
+    const id = setInterval(()=>{
+        return fn(...args)
+    },t)
 
     return ()=>{
-        clearInterval(mainInterval)
+        clearInterval(id)
     }
-   
 };
 
 /**
