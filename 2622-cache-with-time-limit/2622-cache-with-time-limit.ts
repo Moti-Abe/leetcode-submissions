@@ -1,6 +1,6 @@
 class TimeLimitedCache {
     private map = new Map<number, {value: number, expires: number}>();
-
+    
     set(key: number, value: number, duration: number): boolean {
         const exists = this.map.has(key)
         
@@ -8,7 +8,6 @@ class TimeLimitedCache {
             value:value,
             expires: Date.now()+ duration
         });
-        
         return exists
     }
     
@@ -18,7 +17,7 @@ class TimeLimitedCache {
         if (!item) return -1
 
         if (Date.now() >= item.expires) {
-            
+            this.map.delete(key);
             return -1;
         }
 
