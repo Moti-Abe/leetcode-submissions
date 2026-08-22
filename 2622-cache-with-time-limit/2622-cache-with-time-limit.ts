@@ -30,11 +30,9 @@ class TimeLimitedCache {
         for (const [key, item] of this.map) {
             if (Date.now() < item.expires) {
                 count++;
-            } else {
-                this.map.delete(key);
-            }
+            } 
         }
-
+    
         return count;
     }
 }
