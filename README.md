@@ -1,9 +1,9 @@
-# All of my LeetCode submissions..
+# All of my LeetCode submissions.
 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array..
+## Array.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0001-two-sum) |
