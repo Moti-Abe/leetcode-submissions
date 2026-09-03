@@ -2,7 +2,6 @@ class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         row = len(board)
         col = len(board[0])
-        
         for i in range(row):
             arr1 = []
             arr2 = []
