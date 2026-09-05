@@ -23,6 +23,7 @@ class Solution:
                         if board[r+i][c+j].isdigit():
                             arr.append(board[r+i][c+j])
                 
+                
                 if len(arr) != len(set(arr)):
                     return False
         
