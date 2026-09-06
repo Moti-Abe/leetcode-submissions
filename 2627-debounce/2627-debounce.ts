@@ -3,14 +3,12 @@ type F = (...args: number[]) => void
 function debounce(fn: F, t: number): F {
     let ref
     return function(...args) {
+
         clearTimeout(ref)
         
         ref = setTimeout(()=>{
             return fn(...args)
         }, t)
-
-        
-    
     }
 };
 
