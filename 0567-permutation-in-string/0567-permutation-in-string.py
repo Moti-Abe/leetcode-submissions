@@ -2,31 +2,33 @@ class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2):
             return False
-
-        s1dict = {}
-        for i in range (len(s1)):
-            s1dict[s1[i]] = s1dict.get(s1[i], 0) + 1
+        s1_mp = {}
+        s2_mp = {}
+        for i in range(len(s1)):
+            s1_mp[s1[i]] = s1_mp.get(s1[i], 0) + 1
+            s2_mp[s2[i]] = s2_mp.get(s2[i], 0) + 1
         
-        s2dict = {}
-        left, right = 0, 0
-        istrue = False
-        while right < len(s2):
+        l, r = 0, len(s1)
+        while r <= len(s2):
+            if s1_mp == s2_mp:
+                return True
             
-            s2dict[s2[right]] = s2dict.get(s2[right], 0) + 1
-            if right - left + 1 > len(s1):
-                s2dict[s2[left]] -= 1
-                if s2dict[s2[left]] == 0:
-                    del s2dict[s2[left]]
-                left += 1
-            
-            if s1dict == s2dict:
-                istrue = True
-                break
-            
-            right += 1
-        
-        return istrue
+                
+            s2_mp[s2[l]] -= 1
+            if s2_mp[s2[l]] == 0:
+                del s2_mp[s2[l]]
 
+            if r < len(s2):
+                s2_mp[s2[r]] = s2_mp.get(s2[r], 0) + 1
+            
+            l += 1
+            r += 1
+            
         
+        return False
 
-        
+
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
