@@ -858,4 +858,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
