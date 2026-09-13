@@ -3,7 +3,6 @@ class Solution:
         if len(s1) > len(s2):
             return False
         s1_mp = {}
-
         s2_mp = {}
         
         for i in range(len(s1)):
