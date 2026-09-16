@@ -1,25 +1,23 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        dq = deque()  # stores indices
-        res = []
-
+        st = deque()
+        output = []
         for i in range(len(nums)):
-            # 1. Remove indices out of current window
-            if dq and dq[0] < i - k + 1:
-                dq.popleft()
+            while st and st[0][0] <= i-k:
+                st.popleft()
+                
+            while st and st[-1][1] < nums[i]: 
+                st.pop()
+            
+            st.append((i, nums[i]))
+            
+            if st and i >= k-1:
+                output.append(st[0][1])
+        
+        return output
 
-            # 2. Maintain decreasing order
-            while dq and nums[dq[-1]] < nums[i]:
-                dq.pop()
+        
 
-            # 3. Add current index
-            dq.append(i)
-
-            # 4. Record result when window is valid
-            if i >= k - 1:
-                res.append(nums[dq[0]])
-
-        return res
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
