@@ -1,28 +1,43 @@
 class MinStack:
 
     def __init__(self):
-        self.stack = deque()
-        self.val = 0
-
-    def push(self, val: int) -> None:
-        self.val = val
-        self.stack.append(self.val)
+        self.st = deque()
+        
+    def push(self, value: int) -> None:
+        self.val = value
+        
+        if not self.st:
+            self.st.append((value, self.val))
+        else:
+            x = self.st[-1][1]
+            if x >= self.val:
+                self.st.append((value, self.val))
+            else:
+                self.st.append((value, x))
+        
 
     def pop(self) -> None:
-        if self.stack:
-            self.stack.pop()
+        if self.st: 
+            self.st.pop()
+        
 
     def top(self) -> int:
-        if self.stack:
-            return self.stack[-1]
+        if self.st: 
+            return self.st[-1][0]
+        
 
     def getMin(self) -> int:
-        return min(self.stack)
+        return self.st[-1][1]
+        
 
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
-# obj.push(val)
+# obj.push(value)
 # obj.pop()
 # param_3 = obj.top()
 # param_4 = obj.getMin()
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
