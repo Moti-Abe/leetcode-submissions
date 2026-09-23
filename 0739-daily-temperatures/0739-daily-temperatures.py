@@ -1,13 +1,34 @@
 class Solution:
-    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
+        st = deque()
         n = len(temperatures)
-        stack = []
-        res = [0]*n
-        for i in range (n-1,-1,-1):
-            while stack and (temperatures[i] >= stack[-1][0]):
-                stack.pop()
-            if stack:
-                res[i] = stack[-1][1] - i
-            stack.append([temperatures[i], i])
+        nge = [0]*n
+        st.append((temperatures[-1], n-1))
 
-        return res
+        for i in range(n-2,-1,-1):
+            
+            while st and temperatures[i] >= st[-1][0]:
+                st.pop()
+            if not st:
+                st.append((temperatures[i], i))
+            if st and temperatures[i] < st[-1][0]:
+                nge[i] = st[-1][1]
+                st.append((temperatures[i], i))
+        
+        for i in range(n):
+            if nge[i] == 0:
+                continue
+            nge[i] = nge[i]-i
+        
+        return nge
+            
+            
+                
+                
+
+
+
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
