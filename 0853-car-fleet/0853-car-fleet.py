@@ -4,7 +4,6 @@ class Solution:
         pos_speed = []
         n = len(speed)
         pos_speed = []
-
         for i in range(n):
             pos_speed.append([position[i], speed[i]])
         
