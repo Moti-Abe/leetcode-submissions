@@ -11,7 +11,6 @@ class Solution:
                 pse[i] = pse_stack[-1]
             pse_stack.append(i)
         
-        
         # Next smallest element
         nse = [n]*n
         nse_stack = []
