@@ -98,6 +98,7 @@
 | [1122-relative-sort-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -398,6 +399,7 @@
 | [0875-koko-eating-bananas](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1552-magnetic-force-between-two-balls) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -556,6 +558,7 @@
 | [0661-image-smoother](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 ## Greedy
 |  |
