@@ -1,28 +1,18 @@
 class Solution:
-    def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
-        st = deque()
-        pos_speed = []
+    def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
+        ps = [] # pair of position and speed
+        stack = deque()
         n = len(speed)
-        pos_speed = []
-
         for i in range(n):
-            pos_speed.append([position[i], speed[i]])
+            ps.append((position[i],speed[i]))
+        ps.sort()
         
-        pos_speed.sort(key=lambda x: x[0])
-
-        for i in range(n-1,-1,-1):
-            t = (target - pos_speed[i][0])/pos_speed[i][1]
-            if st and t <= st[-1]:
-                continue
-            st.append(t)
-        
-        return len(st)
-
-
-
-
-        
-
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
+        for i in range (n-1,-1,-1):
+            if not stack:
+                stack.append(ps[i])
+            else:
+                if (target - ps[i][0])/ps[i][1] > (target - stack[-1][0])/stack[-1][1]:
+                    stack.append(ps[i])
+                else:
+                    continue
+        return len(stack)
