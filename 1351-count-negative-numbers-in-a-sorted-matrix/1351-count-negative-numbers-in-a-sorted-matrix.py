@@ -5,6 +5,5 @@ class Solution:
             for j in range(len(grid[i])):
                 if grid[i][j] < 0:
                     count += 1
-
         return count
                 
