@@ -7,8 +7,7 @@ class Solution:
         mag = {}
         for m in magazine:
             mag[m] = mag.get(m, 0) + 1
-        
-        
+    
         for r in ransomNote:
             if r not in mag:
                 
