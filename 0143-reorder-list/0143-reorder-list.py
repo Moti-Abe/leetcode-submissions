@@ -18,6 +18,7 @@ class Solution:
         dummy = ListNode(-1)
         temp = dummy
         while l < len(arr)//2:
+            
             node1 = ListNode(arr[l])
             temp.next = node1
             temp = temp.next
