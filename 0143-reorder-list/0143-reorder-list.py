@@ -4,7 +4,6 @@ class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         if head == None and head.next == None:
             return head
-        
         curr = head
         arr = []
         while curr != None:
@@ -18,7 +17,6 @@ class Solution:
         dummy = ListNode(-1)
         temp = dummy
         while l < len(arr)//2:
-            
             node1 = ListNode(arr[l])
             temp.next = node1
             temp = temp.next
