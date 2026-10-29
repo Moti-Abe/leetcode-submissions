@@ -1,20 +1,33 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        dummy = ListNode(0)
-        dummy.next = head
+        arr = []
+        curr = head
+        while curr:
+            arr.append(curr.val)
+            curr = curr.next
+        del arr[len(arr) - n]
+
+        if(len(arr) == 0):
+            return None
         
-        fast = slow = dummy
-        
-        # Move fast n steps ahead
-        for _ in range(n):
-            fast = fast.next
-        
-        # Move both until fast reaches the end
-        while fast.next:
-            fast = fast.next
-            slow = slow.next
-        
-        # Remove the target node
-        slow.next = slow.next.next
-        
-        return dummy.next
+        curr = head
+        for i in range(len(arr)):
+            curr.val = arr[i]
+            if i == len(arr)-1:
+                break
+            curr = curr.next
+        curr.next = None
+
+
+        return head
+
+
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
