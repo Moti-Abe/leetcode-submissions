@@ -47,6 +47,7 @@
 | [0239-sliding-window-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0347-top-k-frequent-elements) |
@@ -390,6 +391,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0441-arranging-coins) |
@@ -415,6 +417,7 @@
 | [0190-reverse-bits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0779-k-th-symbol-in-grammar) |
@@ -528,6 +531,7 @@
 | [0189-rotate-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0443-string-compression) |
@@ -872,4 +876,12 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
