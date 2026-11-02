@@ -11,7 +11,6 @@ class Solution:
             ans = []
             if not root:
                 return ans
-            
             q = deque()
             q.append(root)
 
