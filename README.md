@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
@@ -894,4 +895,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
