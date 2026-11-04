@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0054-spiral-matrix) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
@@ -899,4 +901,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
