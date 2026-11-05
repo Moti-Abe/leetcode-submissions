@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -417,6 +418,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0268-missing-number) |
@@ -902,4 +904,5 @@
 | ------- |
 | [0046-permutations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
