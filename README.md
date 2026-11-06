@@ -153,6 +153,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
+| [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
+| [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
