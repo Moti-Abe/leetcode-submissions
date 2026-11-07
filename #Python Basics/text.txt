@@ -30,7 +30,9 @@
 
 - Return values
 
-- Lambdaa
+- Lambda
+
+
 
 📌 Lists
 
