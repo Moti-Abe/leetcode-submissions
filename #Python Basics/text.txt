@@ -1,4 +1,4 @@
-🐍 1. Python Basics
+🐍 Python Basics
 - What Python is (high‑level, interpreted, readable)
 
 - Why Python is used (simplicity, readability, community support)

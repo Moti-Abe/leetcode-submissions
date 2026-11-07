@@ -1,0 +1,16 @@
+class Solution:
+    def corpFlightBookings(self, bookings: List[List[int]], n: int) -> List[int]:
+        diff = [0]*n
+        for start, last, seat in bookings:
+            diff[start-1] += seat
+
+            if last < n:
+                diff[last] -= seat
+        
+        for i in range(1,n):
+            diff[i] += diff[i-1]
+        
+        return diff
+
+
+        
