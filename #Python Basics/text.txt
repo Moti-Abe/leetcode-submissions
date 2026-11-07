@@ -22,15 +22,10 @@
 🧩 Functions
 
 - Defining functions
-
 - Calling functions
-
 - Arguments
-
 - Mutability effects (passing lists)
-
 - Return values
-
 - Lambda
 
 
