@@ -20,6 +20,7 @@
 🔁 Loops
 
 🧩 Functions
+
 - Defining functions
 
 - Calling functions
@@ -31,7 +32,6 @@
 - Return values
 
 - Lambda
-
 
 
 📌 Lists
