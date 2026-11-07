@@ -9,21 +9,15 @@
 
 🔤 Variables
 
-
 🔢 Data Types
-
 
 ➕ Operators
 
-
 🧵 Strings
-
 
 🔀 Conditionals
 
-
 🔁 Loops
-
 
 🧩 Functions
 - Defining functions
@@ -36,7 +30,7 @@
 
 - Return values
 
-- Lambda 
+- Lambdaa
 
 📌 Lists
 
