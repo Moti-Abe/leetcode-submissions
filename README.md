@@ -213,6 +213,7 @@
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [2469-convert-the-temperature](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2469-convert-the-temperature) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
