@@ -256,6 +256,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
