@@ -154,6 +154,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -585,6 +586,7 @@
 | [0867-transpose-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -916,4 +918,8 @@
 | [0046-permutations](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0078-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
