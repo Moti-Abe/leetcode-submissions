@@ -155,6 +155,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -216,6 +217,7 @@
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -315,6 +317,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
