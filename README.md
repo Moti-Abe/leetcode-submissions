@@ -149,6 +149,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2942-find-words-containing-character](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
@@ -392,6 +393,7 @@
 | [2418-sort-the-people](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [2942-find-words-containing-character](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
