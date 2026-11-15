@@ -108,6 +108,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1534-count-good-triplets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1552-magnetic-force-between-two-balls) |
@@ -200,6 +201,7 @@
 | [1122-relative-sort-array](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1695-maximum-erasure-value) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -250,6 +252,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0779-k-th-symbol-in-grammar) |
 | [0789-escape-the-ghosts](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1922-count-good-numbers) |
@@ -461,6 +464,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
