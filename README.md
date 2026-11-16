@@ -259,6 +259,7 @@
 | [1925-count-square-sum-triples](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2235-add-two-integers](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2469-convert-the-temperature) |
