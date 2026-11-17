@@ -153,6 +153,7 @@
 | [2942-find-words-containing-character](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
@@ -322,6 +323,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -590,6 +592,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |
