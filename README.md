@@ -155,7 +155,6 @@
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
-| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
@@ -221,7 +220,6 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
-| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3945-digit-frequency-score) |
@@ -268,7 +266,6 @@
 | [2469-convert-the-temperature](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
-| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3783-mirror-distance-of-an-integer) |
