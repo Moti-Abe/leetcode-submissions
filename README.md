@@ -224,6 +224,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -406,6 +407,7 @@
 | [2942-find-words-containing-character](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
