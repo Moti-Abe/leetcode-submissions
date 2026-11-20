@@ -6,7 +6,6 @@ class Solution:
             mp[num] = mp.get(num, 0) + 1
             if mp[num] > 1:
                 output.append(num)
-        
         output.sort()
         return output
 
