@@ -408,7 +408,6 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2942-find-words-containing-character](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2942-find-words-containing-character) |
-| [3110-score-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3760-maximum-substrings-with-distinct-start) |
