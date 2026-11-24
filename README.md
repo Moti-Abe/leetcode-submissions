@@ -412,6 +412,7 @@
 | [3174-clear-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -603,6 +604,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
 | ------- |
