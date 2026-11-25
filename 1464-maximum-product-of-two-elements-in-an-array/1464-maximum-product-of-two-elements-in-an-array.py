@@ -3,8 +3,9 @@ class Solution:
         mx = max(nums)
         nums.remove(mx)
         mx2 = max(nums)
-        nums.remove(mx2)
         
+        nums.remove(mx2)
+
 
         return ((mx-1)*(mx2-1))
 
