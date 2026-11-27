@@ -9,7 +9,6 @@ class Solution:
                 positive.append(num)
         
         l, r = 0, 0
-        
         res = []
         while positive and negative and l < len(positive) and r < len(negative):
             res.append(positive[l])
