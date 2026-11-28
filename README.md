@@ -156,6 +156,7 @@
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3238-find-the-number-of-winning-players](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3238-find-the-number-of-winning-players) |
@@ -355,6 +356,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3174-clear-digits](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -611,6 +613,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Moti-Abe/Big-Tech-Interview-Prep/tree/master/3794-reverse-string-prefix) |
 ## Matrix
